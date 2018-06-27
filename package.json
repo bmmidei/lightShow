@@ -1,0 +1,20 @@
+{
+  "name": "lightserver",
+  "version": "1.0.0",
+  "description": "Main lightstrip server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Midei",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "colorqueue": "^1.0.1",
+    "dotstar": "^1.0.0",
+    "express": "^4.16.3",
+    "pi-spi": "^1.0.2",
+    "python-shell": "^0.5.0",
+    "sleep": "^5.1.1"
+  }
+}
